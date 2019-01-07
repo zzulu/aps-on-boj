@@ -1,4 +1,5 @@
-# BOJ
+# Baejoon Online Judge
 
-1. One or more codes per day.
-2. Must write codes using vim.
+| No | Title | Solutions | Remarks |
+| ---- | ---- | ---- | ---- |
+| 2448 | 별 찍기 - 11 | [py](solutions/py/2448.py) | |
