@@ -1,4 +1,4 @@
-# Baejoon Online Judge
+# Baekjoon Online Judge
 
 | No | Title | Solutions | Remarks |
 | ---- | ---- | ---- | ---- |
