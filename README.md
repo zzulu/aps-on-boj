@@ -5,6 +5,7 @@
 | [1000](https://www.acmicpc.net/problem/1000) | A+B | [py](solutions/py/1000.py) |
 | [1001](https://www.acmicpc.net/problem/1001) | A-B | [py](solutions/py/1001.py) |
 | [1008](https://www.acmicpc.net/problem/1008) | A/B | [py](solutions/py/1008.py) |
+| [1330](https://www.acmicpc.net/problem/1330) | 두 수 비교하기 | [py](solutions/py/1330.py) |
 | [2448](https://www.acmicpc.net/problem/2448) | 별 찍기 - 11 | [py](solutions/py/2448.py) |
 | [2557](https://www.acmicpc.net/problem/2557) | Hello World | [py](solutions/py/2557.py) |
 | [10250](https://www.acmicpc.net/problem/10250) | ACM 호텔 | [py](solutions/py/10250.py) |
