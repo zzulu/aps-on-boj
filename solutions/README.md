@@ -18,6 +18,7 @@
 | [10430](https://www.acmicpc.net/problem/10430) | 나머지 | [py](py/10430.py) |
 | [10718](https://www.acmicpc.net/problem/10718) | We love kriii | [py](py/10718.py) |
 | [10869](https://www.acmicpc.net/problem/10869) | 사칙연산 | [py](py/10869.py) |
+| [10951](https://www.acmicpc.net/problem/10951) | A+B - 4 | [py](py/10951.py) |
 | [10998](https://www.acmicpc.net/problem/10998) | A×B | [py](py/10998.py) |
 | [14681](https://www.acmicpc.net/problem/14681) | Quadrant Selection | [py](py/14681.py) |
 | [15685](https://www.acmicpc.net/problem/15685) | 드래곤 커브 | [py](py/15685.py) |
