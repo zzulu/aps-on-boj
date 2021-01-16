@@ -23,5 +23,6 @@
 | [10952](https://www.acmicpc.net/problem/10952) | A+B - 5 | [py](py/10952.py) |
 | [10998](https://www.acmicpc.net/problem/10998) | A×B | [py](py/10998.py) |
 | [14681](https://www.acmicpc.net/problem/14681) | Quadrant Selection | [py](py/14681.py) |
+| [15552](https://www.acmicpc.net/problem/15552) | 빠른 A+B | [py](py/15552.py) |
 | [15685](https://www.acmicpc.net/problem/15685) | 드래곤 커브 | [py](py/15685.py) |
 | [16395](https://www.acmicpc.net/problem/16395) | 파스칼의 삼각형 | [py](py/16395.py) |
