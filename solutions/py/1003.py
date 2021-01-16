@@ -8,7 +8,7 @@ def fibonacci(n, memo):
     if n == 1:
         return 0, 1
 
-    zero, one = tuple(map(sum, zip(fibonacci(n-1, memo), fibonacci(n-2, memo))))
+    zero, one = map(sum, zip(fibonacci(n-1, memo), fibonacci(n-2, memo)))
     memo[n] = [zero, one]
     return zero, one
 
