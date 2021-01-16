@@ -7,6 +7,7 @@
 | [1002](https://www.acmicpc.net/problem/1002) | 터렛 | [py](py/1002.py) |
 | [1003](https://www.acmicpc.net/problem/1003) | 피보나치 함수 | [py](py/1003.py) |
 | [1008](https://www.acmicpc.net/problem/1008) | A/B | [py](py/1008.py) |
+| [1010](https://www.acmicpc.net/problem/1010) | 다리 놓기 | [py](py/1010.py) |
 | [1037](https://www.acmicpc.net/problem/1037) | 약수 | [py](py/1037.py) |
 | [1712](https://www.acmicpc.net/problem/1712) | 손익분기점 | [py](py/1712.py) |
 | [1330](https://www.acmicpc.net/problem/1330) | 두 수 비교하기 | [py](py/1330.py) |
