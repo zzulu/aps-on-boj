@@ -19,4 +19,5 @@
 | [10718](https://www.acmicpc.net/problem/10718) | We love kriii | [py](py/10718.py) |
 | [10869](https://www.acmicpc.net/problem/10869) | 사칙연산 | [py](py/10869.py) |
 | [10998](https://www.acmicpc.net/problem/10998) | A×B | [py](py/10998.py) |
+| [14681](https://www.acmicpc.net/problem/14681) | Quadrant Selection | [py](py/14681.py) |
 | [16395](https://www.acmicpc.net/problem/16395) | 파스칼의 삼각형 | [py](py/16395.py) |
