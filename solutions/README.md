@@ -11,6 +11,7 @@
 | [2588](https://www.acmicpc.net/problem/2588) | 곱셈 | [py](py/2588.py) |
 | [2557](https://www.acmicpc.net/problem/2557) | Hello World | [py](py/2557.py) |
 | [2753](https://www.acmicpc.net/problem/2753) | 윤년 | [py](py/2753.py) |
+| [8393](https://www.acmicpc.net/problem/8393) | Sum | [py](py/8393.py) |
 | [9498](https://www.acmicpc.net/problem/9498) | 시험 성적 | [py](py/9498.py) |
 | [10171](https://www.acmicpc.net/problem/10171) | Cats | [py](py/10171.py) |
 | [10172](https://www.acmicpc.net/problem/10172) | Dogs | [py](py/10172.py) |
