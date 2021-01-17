@@ -9,6 +9,7 @@
 | [1008](https://www.acmicpc.net/problem/1008) | A/B | [py](py/1008.py) [rb](rb/1008.rb) |
 | [1010](https://www.acmicpc.net/problem/1010) | 다리 놓기 | [py](py/1010.py) |
 | [1037](https://www.acmicpc.net/problem/1037) | 약수 | [py](py/1037.py) |
+| [1106](https://www.acmicpc.net/problem/1106) | 호텔 | [py](py/1106.py) |
 | [1152](https://www.acmicpc.net/problem/1152) | 단어의 개수 | [py](py/1152.py) [rb](rb/1152.rb) |
 | [1662](https://www.acmicpc.net/problem/1662) | 압축 | [py](py/1662.py) |
 | [1712](https://www.acmicpc.net/problem/1712) | 손익분기점 | [py](py/1712.py) |
