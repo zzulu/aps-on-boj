@@ -51,3 +51,4 @@
 | [15552](https://www.acmicpc.net/problem/15552) | 빠른 A+B | [py](py/15552.py) |
 | [15685](https://www.acmicpc.net/problem/15685) | 드래곤 커브 | [py](py/15685.py) |
 | [16395](https://www.acmicpc.net/problem/16395) | 파스칼의 삼각형 | [py](py/16395.py) |
+| [20001](https://www.acmicpc.net/problem/20001) | 고무오리 디버깅 | [py](py/20001.py) |
