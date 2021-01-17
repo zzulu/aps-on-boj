@@ -8,6 +8,7 @@
 | [1003](https://www.acmicpc.net/problem/1003) | 피보나치 함수 | [py](py/1003.py) |
 | [1008](https://www.acmicpc.net/problem/1008) | A/B | [py](py/1008.py) [rb](rb/1008.rb) |
 | [1010](https://www.acmicpc.net/problem/1010) | 다리 놓기 | [py](py/1010.py) |
+| [1032](https://www.acmicpc.net/problem/1032) | 명령 프롬프트 | [py](py/1032.py) |
 | [1037](https://www.acmicpc.net/problem/1037) | 약수 | [py](py/1037.py) |
 | [1106](https://www.acmicpc.net/problem/1106) | 호텔 | [py](py/1106.py) |
 | [1152](https://www.acmicpc.net/problem/1152) | 단어의 개수 | [py](py/1152.py) [rb](rb/1152.rb) |
