@@ -47,6 +47,7 @@
 | [10430](https://www.acmicpc.net/problem/10430) | 나머지 | [py](py/10430.py) [rb](rb/10430.rb) |
 | [10718](https://www.acmicpc.net/problem/10718) | We love kriii | [py](py/10718.py) [rb](rb/10718.rb) |
 | [10817](https://www.acmicpc.net/problem/10817) | 세 수 | [rb](rb/10817.rb) |
+| [10818](https://www.acmicpc.net/problem/10818) | 최소, 최대 | [py](py/10818.py) |
 | [10869](https://www.acmicpc.net/problem/10869) | 사칙연산 | [py](py/10869.py) |
 | [10871](https://www.acmicpc.net/problem/10871) | X보다 작은 수 | [rb](rb/10871.rb) |
 | [10951](https://www.acmicpc.net/problem/10951) | A+B - 4 | [py](py/10951.py) |
