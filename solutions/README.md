@@ -33,7 +33,7 @@
 | [2558](https://www.acmicpc.net/problem/2558) | A+B - 2 | [py](py/2558.py) [rb](rb/2558.rb) |
 | [2588](https://www.acmicpc.net/problem/2588) | 곱셈 | [py](py/2588.py) |
 | [2557](https://www.acmicpc.net/problem/2557) | Hello World | [py](py/2557.py) |
-| [2739](https://www.acmicpc.net/problem/2739) | 구구단 | [rb](rb/2739.rb) |
+| [2739](https://www.acmicpc.net/problem/2739) | 구구단 | [py](py/2739.py) [rb](rb/2739.rb) |
 | [2741](https://www.acmicpc.net/problem/2741) | N 찍기 | [rb](rb/2741.rb) |
 | [2753](https://www.acmicpc.net/problem/2753) | 윤년 | [py](py/2753.py) |
 | [2839](https://www.acmicpc.net/problem/2839) | 설탕 배달 | [rb](rb/2839.rb) |
