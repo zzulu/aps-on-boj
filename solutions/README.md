@@ -26,6 +26,7 @@
 | [2439](https://www.acmicpc.net/problem/2439) | 별 찍기 - 2 | [rb](rb/2439.rb) |
 | [2440](https://www.acmicpc.net/problem/2440) | 별 찍기 - 3 | [rb](rb/2440.rb) |
 | [2448](https://www.acmicpc.net/problem/2448) | 별 찍기 - 11 | [py](py/2448.py) |
+| [2475](https://www.acmicpc.net/problem/2475) | 검증수 | [py](py/2475.py) |
 | [2558](https://www.acmicpc.net/problem/2558) | A+B - 2 | [rb](rb/2558.rb) |
 | [2588](https://www.acmicpc.net/problem/2588) | 곱셈 | [py](py/2588.py) |
 | [2557](https://www.acmicpc.net/problem/2557) | Hello World | [py](py/2557.py) |
