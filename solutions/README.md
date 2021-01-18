@@ -14,6 +14,7 @@
 | [1074](https://www.acmicpc.net/problem/1074) | Z | [py](py/1074.py) |
 | [1106](https://www.acmicpc.net/problem/1106) | 호텔 | [py](py/1106.py) |
 | [1152](https://www.acmicpc.net/problem/1152) | 단어의 개수 | [py](py/1152.py) [rb](rb/1152.rb) |
+| [1181](https://www.acmicpc.net/problem/1181) | 단어 정렬 | [py](py/1181.py) |
 | [1271](https://www.acmicpc.net/problem/1271) | 엄청난 부자2 | [py](py/1271.py) |
 | [1550](https://www.acmicpc.net/problem/1550) | 16진수 | [py](py/1550.py) |
 | [1629](https://www.acmicpc.net/problem/1629) | 곱셈 | [py](py/1629.py) |
