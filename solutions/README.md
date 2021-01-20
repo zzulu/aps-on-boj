@@ -50,6 +50,7 @@
 | [10818](https://www.acmicpc.net/problem/10818) | 최소, 최대 | [py](py/10818.py) |
 | [10869](https://www.acmicpc.net/problem/10869) | 사칙연산 | [py](py/10869.py) |
 | [10871](https://www.acmicpc.net/problem/10871) | X보다 작은 수 | [rb](rb/10871.rb) |
+| [10950](https://www.acmicpc.net/problem/10950) | A+B - 3 | [py](py/10950.py) |
 | [10951](https://www.acmicpc.net/problem/10951) | A+B - 4 | [py](py/10951.py) |
 | [10952](https://www.acmicpc.net/problem/10952) | A+B - 5 | [py](py/10952.py) |
 | [10998](https://www.acmicpc.net/problem/10998) | A×B | [py](py/10998.py) |
