@@ -39,6 +39,7 @@
 | [2741](https://www.acmicpc.net/problem/2741) | N 찍기 | [rb](rb/2741.rb) |
 | [2753](https://www.acmicpc.net/problem/2753) | 윤년 | [py](py/2753.py) |
 | [2839](https://www.acmicpc.net/problem/2839) | 설탕 배달 | [rb](rb/2839.rb) |
+| [2920](https://www.acmicpc.net/problem/2920) | 음계 | [py](py/2920.py) |
 | [4673](https://www.acmicpc.net/problem/4673) | 셀프 넘버 | [rb](rb/4673.rb) |
 | [7287](https://www.acmicpc.net/problem/7287) | 등록 | [py](py/7287.py) [rb](rb/7287.rb) |
 | [8393](https://www.acmicpc.net/problem/8393) | 합 | [py](py/8393.py) [rb](rb/8393.rb) |
