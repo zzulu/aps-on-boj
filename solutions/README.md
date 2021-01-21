@@ -61,7 +61,7 @@
 | [11654](https://www.acmicpc.net/problem/11654) | 아스키 코드 | [rb](rb/11654.rb) |
 | [11718](https://www.acmicpc.net/problem/11718) | 그대로 출력하기 | [rb](rb/11718.rb) |
 | [11719](https://www.acmicpc.net/problem/11719) | 그대로 출력하기 2 | [rb](rb/11719.rb) |
-| [11720](https://www.acmicpc.net/problem/11720) | 숫자의 합 | [rb](rb/11720.rb) |
+| [11720](https://www.acmicpc.net/problem/11720) | 숫자의 합 | [py](py/11720.py) [rb](rb/11720.rb) |
 | [11721](https://www.acmicpc.net/problem/11721) | 열 개씩 끊어 출력하기 | [rb](rb/11721.rb) |
 | [14681](https://www.acmicpc.net/problem/14681) | 사분면 고르기 | [py](py/14681.py) |
 | [15552](https://www.acmicpc.net/problem/15552) | 빠른 A+B | [py](py/15552.py) |
