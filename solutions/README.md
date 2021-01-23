@@ -12,6 +12,7 @@
 | [1032](https://www.acmicpc.net/problem/1032) | 명령 프롬프트 | [py](py/1032.py) |
 | [1037](https://www.acmicpc.net/problem/1037) | 약수 | [py](py/1037.py) |
 | [1074](https://www.acmicpc.net/problem/1074) | Z | [py](py/1074.py) |
+| [1085](https://www.acmicpc.net/problem/1085) | 직사각형에서 탈출 | [py](py/1085.py) |
 | [1106](https://www.acmicpc.net/problem/1106) | 호텔 | [py](py/1106.py) |
 | [1152](https://www.acmicpc.net/problem/1152) | 단어의 개수 | [py](py/1152.py) [rb](rb/1152.rb) |
 | [1181](https://www.acmicpc.net/problem/1181) | 단어 정렬 | [py](py/1181.py) |
