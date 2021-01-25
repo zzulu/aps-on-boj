@@ -36,6 +36,7 @@
 | [2562](https://www.acmicpc.net/problem/2562) | 곱셈 | [py](py/2562.py) |
 | [2588](https://www.acmicpc.net/problem/2588) | 최댓값 | [py](py/2588.py) |
 | [2557](https://www.acmicpc.net/problem/2557) | Hello World | [py](py/2557.py) |
+| [2609](https://www.acmicpc.net/problem/2609) | 최대공약수와 최소공배수 | [py](py/2609.py) |
 | [2675](https://www.acmicpc.net/problem/2675) | 문자열 반복 | [py](py/2675.py) |
 | [2739](https://www.acmicpc.net/problem/2739) | 구구단 | [py](py/2739.py) [rb](rb/2739.rb) |
 | [2741](https://www.acmicpc.net/problem/2741) | N 찍기 | [rb](rb/2741.rb) |
