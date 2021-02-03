@@ -16,6 +16,7 @@
 | [1106](https://www.acmicpc.net/problem/1106) | 호텔 | [py](py/1106.py) |
 | [1152](https://www.acmicpc.net/problem/1152) | 단어의 개수 | [py](py/1152.py) [rb](rb/1152.rb) |
 | [1181](https://www.acmicpc.net/problem/1181) | 단어 정렬 | [py](py/1181.py) |
+| [1244](https://www.acmicpc.net/problem/1244) | 스위치 켜고 끄기 | [py](py/1244.py) |
 | [1259](https://www.acmicpc.net/problem/1259) | 팰린드롬수 | [py](py/1259.py) |
 | [1271](https://www.acmicpc.net/problem/1271) | 엄청난 부자2 | [py](py/1271.py) |
 | [1292](https://www.acmicpc.net/problem/1292) | 쉽게 푸는 문제 | [py](py/1292.py) |
