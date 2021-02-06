@@ -55,6 +55,7 @@
 | [10250](https://www.acmicpc.net/problem/10250) | ACM 호텔 | [py](py/10250.py) |
 | [10430](https://www.acmicpc.net/problem/10430) | 나머지 | [py](py/10430.py) [rb](rb/10430.rb) |
 | [10718](https://www.acmicpc.net/problem/10718) | We love kriii | [py](py/10718.py) [rb](rb/10718.rb) |
+| [10814](https://www.acmicpc.net/problem/10814) | 나이순 정렬 | [py](py/10814.py) |
 | [10817](https://www.acmicpc.net/problem/10817) | 세 수 | [rb](rb/10817.rb) |
 | [10818](https://www.acmicpc.net/problem/10818) | 최소, 최대 | [py](py/10818.py) |
 | [10869](https://www.acmicpc.net/problem/10869) | 사칙연산 | [py](py/10869.py) |
