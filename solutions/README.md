@@ -24,6 +24,7 @@
 | [1550](https://www.acmicpc.net/problem/1550) | 16진수 | [py](py/1550.py) |
 | [1629](https://www.acmicpc.net/problem/1629) | 곱셈 | [py](py/1629.py) |
 | [1662](https://www.acmicpc.net/problem/1662) | 압축 | [py](py/1662.py) |
+| [1676](https://www.acmicpc.net/problem/1676) | 팩토리얼 0의 개수 | [py](py/1676.py) |
 | [1712](https://www.acmicpc.net/problem/1712) | 손익분기점 | [py](py/1712.py) |
 | [1330](https://www.acmicpc.net/problem/1330) | 두 수 비교하기 | [py](py/1330.py) |
 | [1924](https://www.acmicpc.net/problem/1924) | 2007년 | [py](py/1924.py) [rb](rb/1924.rb) |
