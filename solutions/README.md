@@ -41,7 +41,7 @@
 | [2609](https://www.acmicpc.net/problem/2609) | 최대공약수와 최소공배수 | [py](py/2609.py) |
 | [2675](https://www.acmicpc.net/problem/2675) | 문자열 반복 | [py](py/2675.py) |
 | [2739](https://www.acmicpc.net/problem/2739) | 구구단 | [py](py/2739.py) [rb](rb/2739.rb) |
-| [2741](https://www.acmicpc.net/problem/2741) | N 찍기 | [rb](rb/2741.rb) |
+| [2741](https://www.acmicpc.net/problem/2741) | N 찍기 | [py](py/2741.py) [rb](rb/2741.rb) |
 | [2751](https://www.acmicpc.net/problem/2751) | 수 정렬하기 2 | [py](py/2751.py) |
 | [2753](https://www.acmicpc.net/problem/2753) | 윤년 | [py](py/2753.py) |
 | [2798](https://www.acmicpc.net/problem/2798) | 블랙잭 | [py](py/2798.py) |
