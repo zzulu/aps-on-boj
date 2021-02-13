@@ -29,6 +29,7 @@
 | [1330](https://www.acmicpc.net/problem/1330) | 두 수 비교하기 | [py](py/1330.py) |
 | [1920](https://www.acmicpc.net/problem/1920) | 수 찾기 | [py](py/1920.py) |
 | [1924](https://www.acmicpc.net/problem/1924) | 2007년 | [py](py/1924.py) [rb](rb/1924.rb) |
+| [1978](https://www.acmicpc.net/problem/1978) | 소수 찾기 | [py](py/1978.py) |
 | [2338](https://www.acmicpc.net/problem/2338) | 긴자리 계산 | [py](py/2338.py) [rb](rb/2338.rb) |
 | [2438](https://www.acmicpc.net/problem/2438) | 별 찍기 - 1 | [py](py/2438.py) [rb](rb/2438.rb) |
 | [2439](https://www.acmicpc.net/problem/2439) | 별 찍기 - 2 | [rb](rb/2439.rb) |
