@@ -54,6 +54,7 @@
 | [7287](https://www.acmicpc.net/problem/7287) | 등록 | [py](py/7287.py) [rb](rb/7287.rb) |
 | [8393](https://www.acmicpc.net/problem/8393) | 합 | [py](py/8393.py) [rb](rb/8393.rb) |
 | [8958](https://www.acmicpc.net/problem/8958) | OX퀴즈 | [py](py/8958.py) |
+| [9012](https://www.acmicpc.net/problem/9012) | 괄호 | [py](py/9012.py) |
 | [9498](https://www.acmicpc.net/problem/9498) | 시험 성적 | [py](py/9498.py) [rb](rb/9498.rb) |
 | [10171](https://www.acmicpc.net/problem/10171) | Cats | [py](py/10171.py) |
 | [10172](https://www.acmicpc.net/problem/10172) | Dogs | [py](py/10172.py) [rb](rb/10172.rb) |
