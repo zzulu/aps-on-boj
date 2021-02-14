@@ -33,7 +33,7 @@
 | [2164](https://www.acmicpc.net/problem/2164) | 카드2 | [py](py/2164.py) |
 | [2338](https://www.acmicpc.net/problem/2338) | 긴자리 계산 | [py](py/2338.py) [rb](rb/2338.rb) |
 | [2438](https://www.acmicpc.net/problem/2438) | 별 찍기 - 1 | [py](py/2438.py) [rb](rb/2438.rb) |
-| [2439](https://www.acmicpc.net/problem/2439) | 별 찍기 - 2 | [rb](rb/2439.rb) |
+| [2439](https://www.acmicpc.net/problem/2439) | 별 찍기 - 2 | [py](py/2439.py) [rb](rb/2439.rb) |
 | [2440](https://www.acmicpc.net/problem/2440) | 별 찍기 - 3 | [rb](rb/2440.rb) |
 | [2448](https://www.acmicpc.net/problem/2448) | 별 찍기 - 11 | [py](py/2448.py) |
 | [2475](https://www.acmicpc.net/problem/2475) | 검증수 | [py](py/2475.py) |
