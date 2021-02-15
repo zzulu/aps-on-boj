@@ -39,6 +39,7 @@
 | [2475](https://www.acmicpc.net/problem/2475) | 검증수 | [py](py/2475.py) |
 | [2558](https://www.acmicpc.net/problem/2558) | A+B - 2 | [py](py/2558.py) [rb](rb/2558.rb) |
 | [2562](https://www.acmicpc.net/problem/2562) | 곱셈 | [py](py/2562.py) |
+| [2577](https://www.acmicpc.net/problem/2577) | 숫자의 개수 | [py](py/2577.py) |
 | [2588](https://www.acmicpc.net/problem/2588) | 최댓값 | [py](py/2588.py) |
 | [2557](https://www.acmicpc.net/problem/2557) | Hello World | [py](py/2557.py) |
 | [2609](https://www.acmicpc.net/problem/2609) | 최대공약수와 최소공배수 | [py](py/2609.py) |
