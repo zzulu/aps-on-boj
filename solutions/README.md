@@ -52,6 +52,7 @@
 | [2798](https://www.acmicpc.net/problem/2798) | 블랙잭 | [py](py/2798.py) |
 | [2839](https://www.acmicpc.net/problem/2839) | 설탕 배달 | [rb](rb/2839.rb) |
 | [2884](https://www.acmicpc.net/problem/2884) | 알람 시계 | [py](py/2884.py) |
+| [2908](https://www.acmicpc.net/problem/2908) | 상수 | [py](py/2908.py) |
 | [2920](https://www.acmicpc.net/problem/2920) | 음계 | [py](py/2920.py) |
 | [4673](https://www.acmicpc.net/problem/4673) | 셀프 넘버 | [rb](rb/4673.rb) |
 | [7287](https://www.acmicpc.net/problem/7287) | 등록 | [py](py/7287.py) [rb](rb/7287.rb) |
