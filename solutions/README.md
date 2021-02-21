@@ -22,6 +22,7 @@
 | [1271](https://www.acmicpc.net/problem/1271) | 엄청난 부자2 | [py](py/1271.py) |
 | [1292](https://www.acmicpc.net/problem/1292) | 쉽게 푸는 문제 | [py](py/1292.py) |
 | [1485](https://www.acmicpc.net/problem/1485) | 정사각형 | [py](py/1485.py) |
+| [1546](https://www.acmicpc.net/problem/1546) | 평균 | [py](py/1546.py) |
 | [1550](https://www.acmicpc.net/problem/1550) | 16진수 | [py](py/1550.py) |
 | [1629](https://www.acmicpc.net/problem/1629) | 곱셈 | [py](py/1629.py) |
 | [1662](https://www.acmicpc.net/problem/1662) | 압축 | [py](py/1662.py) |
