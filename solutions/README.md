@@ -75,6 +75,7 @@
 | [10818](https://www.acmicpc.net/problem/10818) | 최소, 최대 | [py](py/10818.py) |
 | [10828](https://www.acmicpc.net/problem/10828) | 스택 | [py](py/10828.py) |
 | [10845](https://www.acmicpc.net/problem/10845) | 큐 | [py](py/10845.py) |
+| [10866](https://www.acmicpc.net/problem/10866) | 덱 | [py](py/10866.py) |
 | [10869](https://www.acmicpc.net/problem/10869) | 사칙연산 | [py](py/10869.py) |
 | [10871](https://www.acmicpc.net/problem/10871) | X보다 작은 수 | [py](py/10871.py) [rb](rb/10871.rb) |
 | [10950](https://www.acmicpc.net/problem/10950) | A+B - 3 | [py](py/10950.py) |
