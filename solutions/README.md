@@ -9,6 +9,7 @@
 | [1008](https://www.acmicpc.net/problem/1008) | A/B | [py](py/1008.py) [rb](rb/1008.rb) |
 | [1010](https://www.acmicpc.net/problem/1010) | 다리 놓기 | [py](py/1010.py) |
 | [1016](https://www.acmicpc.net/problem/1016) | 제곱 ㄴㄴ수 | [py](py/1016.py) |
+| [1018](https://www.acmicpc.net/problem/1018) | 체스판 다시 칠하기 | [py](py/1018.py) |
 | [1032](https://www.acmicpc.net/problem/1032) | 명령 프롬프트 | [py](py/1032.py) |
 | [1037](https://www.acmicpc.net/problem/1037) | 약수 | [py](py/1037.py) |
 | [1074](https://www.acmicpc.net/problem/1074) | Z | [py](py/1074.py) |
