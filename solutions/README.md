@@ -84,6 +84,7 @@
 | [10952](https://www.acmicpc.net/problem/10952) | A+B - 5 | [py](py/10952.py) |
 | [10998](https://www.acmicpc.net/problem/10998) | A×B | [py](py/10998.py) |
 | [11021](https://www.acmicpc.net/problem/11021) | A+B - 7 | [py](py/11021.py) |
+| [11022](https://www.acmicpc.net/problem/11022) | A+B - 8 | [py](py/11022.py) |
 | [11050](https://www.acmicpc.net/problem/11050) | 이항 계수 1 | [py](py/11050.py) |
 | [11650](https://www.acmicpc.net/problem/11650) | 좌표 정렬하기 | [py](py/11650.py) |
 | [11654](https://www.acmicpc.net/problem/11654) | 아스키 코드 | [rb](rb/11654.rb) |
