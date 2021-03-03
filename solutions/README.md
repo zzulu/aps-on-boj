@@ -34,6 +34,7 @@
 | [1924](https://www.acmicpc.net/problem/1924) | 2007년 | [py](py/1924.py) [rb](rb/1924.rb) |
 | [1978](https://www.acmicpc.net/problem/1978) | 소수 찾기 | [py](py/1978.py) |
 | [2164](https://www.acmicpc.net/problem/2164) | 카드2 | [py](py/2164.py) |
+| [2231](https://www.acmicpc.net/problem/2231) | 분해합 | [py](py/2231.py) |
 | [2338](https://www.acmicpc.net/problem/2338) | 긴자리 계산 | [py](py/2338.py) [rb](rb/2338.rb) |
 | [2438](https://www.acmicpc.net/problem/2438) | 별 찍기 - 1 | [py](py/2438.py) [rb](rb/2438.rb) |
 | [2439](https://www.acmicpc.net/problem/2439) | 별 찍기 - 2 | [py](py/2439.py) [rb](rb/2439.rb) |
