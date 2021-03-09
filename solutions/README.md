@@ -63,7 +63,7 @@
 | [3052](https://www.acmicpc.net/problem/3052) | 나머지 | [py](py/3052.py) |
 | [4153](https://www.acmicpc.net/problem/4153) | 직각삼각형 | [py](py/4153.py) |
 | [4344](https://www.acmicpc.net/problem/4344) | 평균은 넘겠지 | [py](py/4344.py) |
-| [4673](https://www.acmicpc.net/problem/4673) | 셀프 넘버 | [rb](rb/4673.rb) |
+| [4673](https://www.acmicpc.net/problem/4673) | 셀프 넘버 | [py](py/4673.py) [rb](rb/4673.rb) |
 | [7287](https://www.acmicpc.net/problem/7287) | 등록 | [py](py/7287.py) [rb](rb/7287.rb) |
 | [8393](https://www.acmicpc.net/problem/8393) | 합 | [py](py/8393.py) [rb](rb/8393.rb) |
 | [8958](https://www.acmicpc.net/problem/8958) | OX퀴즈 | [py](py/8958.py) |
