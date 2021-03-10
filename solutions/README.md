@@ -74,6 +74,7 @@
 | [10250](https://www.acmicpc.net/problem/10250) | ACM 호텔 | [py](py/10250.py) |
 | [10430](https://www.acmicpc.net/problem/10430) | 나머지 | [py](py/10430.py) [rb](rb/10430.rb) |
 | [10718](https://www.acmicpc.net/problem/10718) | We love kriii | [py](py/10718.py) [rb](rb/10718.rb) |
+| [10773](https://www.acmicpc.net/problem/10773) | 제로 | [py](py/10773.py) |
 | [10809](https://www.acmicpc.net/problem/10809) | 알파벳 찾기 | [py](py/10809.py) |
 | [10814](https://www.acmicpc.net/problem/10814) | 나이순 정렬 | [py](py/10814.py) |
 | [10816](https://www.acmicpc.net/problem/10816) | 숫자 카드 2 | [py](py/10816.py) |
