@@ -89,6 +89,7 @@
 | [10950](https://www.acmicpc.net/problem/10950) | A+B - 3 | [py](py/10950.py) |
 | [10951](https://www.acmicpc.net/problem/10951) | A+B - 4 | [py](py/10951.py) |
 | [10952](https://www.acmicpc.net/problem/10952) | A+B - 5 | [py](py/10952.py) |
+| [10989](https://www.acmicpc.net/problem/10989) | 수 정렬하기 3 | [py](py/10989.py) |
 | [10998](https://www.acmicpc.net/problem/10998) | A×B | [py](py/10998.py) |
 | [11021](https://www.acmicpc.net/problem/11021) | A+B - 7 | [py](py/11021.py) |
 | [11022](https://www.acmicpc.net/problem/11022) | A+B - 8 | [py](py/11022.py) |
