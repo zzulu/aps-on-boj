@@ -104,6 +104,7 @@
 | [11866](https://www.acmicpc.net/problem/11866) | 요세푸스 문제 0 | [py](py/11866.py) |
 | [14681](https://www.acmicpc.net/problem/14681) | 사분면 고르기 | [py](py/14681.py) |
 | [15552](https://www.acmicpc.net/problem/15552) | 빠른 A+B | [py](py/15552.py) |
+| [15596](https://www.acmicpc.net/problem/15596) | 정수 N개의 합 | [py](py/15596.py) |
 | [15685](https://www.acmicpc.net/problem/15685) | 드래곤 커브 | [py](py/15685.py) |
 | [15829](https://www.acmicpc.net/problem/15829) | Hashing | [py](py/15829.py) |
 | [16395](https://www.acmicpc.net/problem/16395) | 파스칼의 삼각형 | [py](py/16395.py) |
