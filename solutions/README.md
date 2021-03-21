@@ -24,6 +24,7 @@
 | [1259](https://www.acmicpc.net/problem/1259) | 팰린드롬수 | [py](py/1259.py) |
 | [1271](https://www.acmicpc.net/problem/1271) | 엄청난 부자2 | [py](py/1271.py) |
 | [1292](https://www.acmicpc.net/problem/1292) | 쉽게 푸는 문제 | [py](py/1292.py) |
+| [1316](https://www.acmicpc.net/problem/1316) | 그룹 단어 체커 | [py](py/1316.py) |
 | [1436](https://www.acmicpc.net/problem/1436) | 영화감독 숌 | [py](py/1436.py) |
 | [1485](https://www.acmicpc.net/problem/1485) | 정사각형 | [py](py/1485.py) |
 | [1546](https://www.acmicpc.net/problem/1546) | 평균 | [py](py/1546.py) |
