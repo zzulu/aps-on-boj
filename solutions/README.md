@@ -84,7 +84,7 @@
 | [10809](https://www.acmicpc.net/problem/10809) | 알파벳 찾기 | [py](py/10809.py) |
 | [10814](https://www.acmicpc.net/problem/10814) | 나이순 정렬 | [py](py/10814.py) |
 | [10816](https://www.acmicpc.net/problem/10816) | 숫자 카드 2 | [py](py/10816.py) |
-| [10817](https://www.acmicpc.net/problem/10817) | 세 수 | [rb](rb/10817.rb) |
+| [10817](https://www.acmicpc.net/problem/10817) | 세 수 | [py](py/10817.py) [rb](rb/10817.rb) |
 | [10818](https://www.acmicpc.net/problem/10818) | 최소, 최대 | [py](py/10818.py) |
 | [10828](https://www.acmicpc.net/problem/10828) | 스택 | [py](py/10828.py) |
 | [10845](https://www.acmicpc.net/problem/10845) | 큐 | [py](py/10845.py) |
