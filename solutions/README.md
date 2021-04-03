@@ -66,6 +66,7 @@
 | [2914](https://www.acmicpc.net/problem/2914) | 저작권 | [py](py/2914.py) |
 | [2920](https://www.acmicpc.net/problem/2920) | 음계 | [py](py/2920.py) |
 | [2941](https://www.acmicpc.net/problem/2941) | 크로아티아 알파벳 | [py](py/2941.py) |
+| [3003](https://www.acmicpc.net/problem/3003) | 킹, 퀸, 룩, 비숍, 나이트, 폰 | [py](py/3003.py) |
 | [3046](https://www.acmicpc.net/problem/3046) | R2 | [py](py/3046.py) |
 | [3052](https://www.acmicpc.net/problem/3052) | 나머지 | [py](py/3052.py) |
 | [4153](https://www.acmicpc.net/problem/4153) | 직각삼각형 | [py](py/4153.py) |
