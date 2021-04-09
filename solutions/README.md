@@ -76,6 +76,7 @@
 | [4949](https://www.acmicpc.net/problem/4949) | 균형잡힌 세상 | [py](py/4949.py) |
 | [5337](https://www.acmicpc.net/problem/5337) | 웰컴 | [py](py/5337.py) |
 | [5338](https://www.acmicpc.net/problem/5338) | 마이크로소프트 로고 | [py](py/5338.py) |
+| [5339](https://www.acmicpc.net/problem/5339) | 콜센터 | [py](py/5339.py) |
 | [5622](https://www.acmicpc.net/problem/5622) | 다이얼 | [py](py/5622.py) |
 | [7287](https://www.acmicpc.net/problem/7287) | 등록 | [py](py/7287.py) [rb](rb/7287.rb) |
 | [7568](https://www.acmicpc.net/problem/7568) | 덩치 | [py](py/7568.py) |
