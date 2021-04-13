@@ -81,6 +81,7 @@
 | [5522](https://www.acmicpc.net/problem/5522) | 카드 게임 | [py](py/5522.py) |
 | [5554](https://www.acmicpc.net/problem/5554) | 심부름 가는 길 | [py](py/5554.py) |
 | [5622](https://www.acmicpc.net/problem/5622) | 다이얼 | [py](py/5622.py) |
+| [5893](https://www.acmicpc.net/problem/5893) | 17배 | [py](py/5893.py) |
 | [7287](https://www.acmicpc.net/problem/7287) | 등록 | [py](py/7287.py) [rb](rb/7287.rb) |
 | [7568](https://www.acmicpc.net/problem/7568) | 덩치 | [py](py/7568.py) |
 | [8393](https://www.acmicpc.net/problem/8393) | 합 | [py](py/8393.py) [rb](rb/8393.rb) |
