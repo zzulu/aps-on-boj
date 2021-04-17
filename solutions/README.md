@@ -91,6 +91,7 @@
 | [8958](https://www.acmicpc.net/problem/8958) | OX퀴즈 | [py](py/8958.py) |
 | [9012](https://www.acmicpc.net/problem/9012) | 괄호 | [py](py/9012.py) |
 | [9498](https://www.acmicpc.net/problem/9498) | 시험 성적 | [py](py/9498.py) [rb](rb/9498.rb) |
+| [9653](https://www.acmicpc.net/problem/9653) | 스타워즈 로고 | [py](py/9653.py) |
 | [10171](https://www.acmicpc.net/problem/10171) | Cats | [py](py/10171.py) |
 | [10172](https://www.acmicpc.net/problem/10172) | Dogs | [py](py/10172.py) [rb](rb/10172.rb) |
 | [10250](https://www.acmicpc.net/problem/10250) | ACM 호텔 | [py](py/10250.py) |
