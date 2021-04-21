@@ -100,6 +100,7 @@
 | [10430](https://www.acmicpc.net/problem/10430) | 나머지 | [py](py/10430.py) [rb](rb/10430.rb) |
 | [10699](https://www.acmicpc.net/problem/10699) | 오늘 날짜 | [py](py/10699.py) |
 | [10718](https://www.acmicpc.net/problem/10718) | We love kriii | [py](py/10718.py) [rb](rb/10718.rb) |
+| [10757](https://www.acmicpc.net/problem/10757) | 큰 수 A+B | [py](py/10757.py) |
 | [10773](https://www.acmicpc.net/problem/10773) | 제로 | [py](py/10773.py) |
 | [10809](https://www.acmicpc.net/problem/10809) | 알파벳 찾기 | [py](py/10809.py) |
 | [10814](https://www.acmicpc.net/problem/10814) | 나이순 정렬 | [py](py/10814.py) |
