@@ -145,6 +145,7 @@
 | [15733](https://www.acmicpc.net/problem/15733) | 나는 누구인가 | [py](py/15733.py) |
 | [15740](https://www.acmicpc.net/problem/15740) | A+b - 9| [py](py/15740.py) |
 | [15829](https://www.acmicpc.net/problem/15829) | Hashing | [py](py/15829.py) |
+| [15894](https://www.acmicpc.net/problem/15894) | 수학은 체육과목 입니다 | [py](py/15894.py) |
 | [16395](https://www.acmicpc.net/problem/16395) | 파스칼의 삼각형 | [py](py/16395.py) |
 | [20001](https://www.acmicpc.net/problem/20001) | 고무오리 디버깅 | [py](py/20001.py) |
 | [20361](https://www.acmicpc.net/problem/20361) | 일우는 야바위꾼 | [py](py/20361.py) |
