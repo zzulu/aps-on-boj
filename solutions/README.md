@@ -150,3 +150,4 @@
 | [18301](https://www.acmicpc.net/problem/18301) | Rats | [py](py/18301.py) |
 | [20001](https://www.acmicpc.net/problem/20001) | 고무오리 디버깅 | [py](py/20001.py) |
 | [20361](https://www.acmicpc.net/problem/20361) | 일우는 야바위꾼 | [py](py/20361.py) |
+| [20492](https://www.acmicpc.net/problem/20492) | 세금 | [py](py/20492.py) |
