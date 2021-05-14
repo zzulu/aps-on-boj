@@ -147,6 +147,7 @@
 | [15829](https://www.acmicpc.net/problem/15829) | Hashing | [py](py/15829.py) |
 | [15894](https://www.acmicpc.net/problem/15894) | 수학은 체육과목 입니다 | [py](py/15894.py) |
 | [16395](https://www.acmicpc.net/problem/16395) | 파스칼의 삼각형 | [py](py/16395.py) |
+| [17496](https://www.acmicpc.net/problem/17496) | 스타후르츠 | [py](py/17496.py) |
 | [18301](https://www.acmicpc.net/problem/18301) | Rats | [py](py/18301.py) |
 | [20001](https://www.acmicpc.net/problem/20001) | 고무오리 디버깅 | [py](py/20001.py) |
 | [20361](https://www.acmicpc.net/problem/20361) | 일우는 야바위꾼 | [py](py/20361.py) |
