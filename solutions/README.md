@@ -90,6 +90,7 @@
 | [8370](https://www.acmicpc.net/problem/8370) | Plane | [py](py/8370.py) [rb](rb/8370.rb) |
 | [8393](https://www.acmicpc.net/problem/8393) | 합 | [py](py/8393.py) [rb](rb/8393.rb) |
 | [8437](https://www.acmicpc.net/problem/8437) | Julka | [py](py/8437.py) |
+| [8871](https://www.acmicpc.net/problem/8871) | Zadanie próbne 2 | [java](java/src/n8871/Main.java) |
 | [8958](https://www.acmicpc.net/problem/8958) | OX퀴즈 | [py](py/8958.py) |
 | [9012](https://www.acmicpc.net/problem/9012) | 괄호 | [py](py/9012.py) |
 | [9498](https://www.acmicpc.net/problem/9498) | 시험 성적 | [py](py/9498.py) [rb](rb/9498.rb) |
