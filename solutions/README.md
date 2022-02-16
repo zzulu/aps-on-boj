@@ -153,6 +153,7 @@
 | [15894](https://www.acmicpc.net/problem/15894) | 수학은 체육과목 입니다 | [py](py/15894.py) |
 | [15962](https://www.acmicpc.net/problem/15962) | 새로운 시작 | [py](py/15962.py) |
 | [16395](https://www.acmicpc.net/problem/16395) | 파스칼의 삼각형 | [py](py/16395.py) |
+| [16930](https://www.acmicpc.net/problem/16930) | 달리기 | [py](py/16930.py) |
 | [17496](https://www.acmicpc.net/problem/17496) | 스타후르츠 | [py](py/17496.py) |
 | [18301](https://www.acmicpc.net/problem/18301) | Rats | [py](py/18301.py) |
 | [20001](https://www.acmicpc.net/problem/20001) | 고무오리 디버깅 | [py](py/20001.py) |
