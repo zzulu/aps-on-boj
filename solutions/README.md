@@ -7,6 +7,7 @@
 | [1002](https://www.acmicpc.net/problem/1002) | 터렛 | [py](py/1002.py) |
 | [1003](https://www.acmicpc.net/problem/1003) | 피보나치 함수 | [py](py/1003.py) |
 | [1008](https://www.acmicpc.net/problem/1008) | A/B | [py](py/1008.py) [rb](rb/1008.rb) |
+| [1009](https://www.acmicpc.net/problem/1009) | 분산처리 | [py](py/1009.py) |
 | [1010](https://www.acmicpc.net/problem/1010) | 다리 놓기 | [py](py/1010.py) |
 | [1016](https://www.acmicpc.net/problem/1016) | 제곱 ㄴㄴ수 | [py](py/1016.py) |
 | [1018](https://www.acmicpc.net/problem/1018) | 체스판 다시 칠하기 | [py](py/1018.py) |
