@@ -154,6 +154,7 @@
 | [15829](https://www.acmicpc.net/problem/15829) | Hashing | [py](py/15829.py) |
 | [15894](https://www.acmicpc.net/problem/15894) | 수학은 체육과목 입니다 | [py](py/15894.py) |
 | [15962](https://www.acmicpc.net/problem/15962) | 새로운 시작 | [py](py/15962.py) |
+| [15964](https://www.acmicpc.net/problem/15962) | 이상한 기호 | [py](py/15964.py) |
 | [16395](https://www.acmicpc.net/problem/16395) | 파스칼의 삼각형 | [py](py/16395.py) |
 | [16930](https://www.acmicpc.net/problem/16930) | 달리기 | [py](py/16930.py) |
 | [17496](https://www.acmicpc.net/problem/17496) | 스타후르츠 | [py](py/17496.py) |
