@@ -158,6 +158,7 @@
 | [16395](https://www.acmicpc.net/problem/16395) | 파스칼의 삼각형 | [py](py/16395.py) |
 | [16930](https://www.acmicpc.net/problem/16930) | 달리기 | [py](py/16930.py) |
 | [17496](https://www.acmicpc.net/problem/17496) | 스타후르츠 | [py](py/17496.py) |
+| [18108](https://www.acmicpc.net/problem/18108) | 1998년생인 내가 태국에서는 2541년생?! | [py](py/18108.py) |
 | [18301](https://www.acmicpc.net/problem/18301) | Rats | [py](py/18301.py) |
 | [16916](https://www.acmicpc.net/problem/16916) | 부분 문자열 | [py](py/16916.py) |
 | [20001](https://www.acmicpc.net/problem/20001) | 고무오리 디버깅 | [py](py/20001.py) |
