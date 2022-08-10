@@ -119,6 +119,7 @@
 | [10866](https://www.acmicpc.net/problem/10866) | 덱 | [py](py/10866.py) |
 | [10869](https://www.acmicpc.net/problem/10869) | 사칙연산 | [py](py/10869.py) |
 | [10871](https://www.acmicpc.net/problem/10871) | X보다 작은 수 | [py](py/10871.py) [rb](rb/10871.rb) |
+| [10872](https://www.acmicpc.net/problem/10872) | 팩토리얼 | [py](py/10872.py) |
 | [10926](https://www.acmicpc.net/problem/10926) | ??! | [py](py/10926.py) |
 | [10950](https://www.acmicpc.net/problem/10950) | A+B - 3 | [py](py/10950.py) |
 | [10951](https://www.acmicpc.net/problem/10951) | A+B - 4 | [py](py/10951.py) |
