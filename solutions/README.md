@@ -28,6 +28,7 @@
 | [1259](https://www.acmicpc.net/problem/1259) | 팰린드롬수 | [py](py/1259.py) |
 | [1271](https://www.acmicpc.net/problem/1271) | 엄청난 부자2 | [py](py/1271.py) |
 | [1292](https://www.acmicpc.net/problem/1292) | 쉽게 푸는 문제 | [py](py/1292.py) |
+| [1302](https://www.acmicpc.net/problem/1302) | 베스트셀러 | [py](py/1302.py) |
 | [1305](https://www.acmicpc.net/problem/1305) | 광고 | [py](py/1305.py) |
 | [1316](https://www.acmicpc.net/problem/1316) | 그룹 단어 체커 | [py](py/1316.py) |
 | [1377](https://www.acmicpc.net/problem/1377) | 버블 소트 | [py](py/1377.py) |
