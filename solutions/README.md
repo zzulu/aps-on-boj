@@ -55,6 +55,7 @@
 | [2448](https://www.acmicpc.net/problem/2448) | 별 찍기 - 11 | [py](py/2448.py) |
 | [2475](https://www.acmicpc.net/problem/2475) | 검증수 | [py](py/2475.py) |
 | [2495](https://www.acmicpc.net/problem/2495) | 연속구간 | [py](py/2495.py) |
+| [2525](https://www.acmicpc.net/problem/2525) | 오븐 시계 | [py](py/2525.py) |
 | [2558](https://www.acmicpc.net/problem/2558) | A+B - 2 | [py](py/2558.py) [rb](rb/2558.rb) |
 | [2562](https://www.acmicpc.net/problem/2562) | 곱셈 | [py](py/2562.py) |
 | [2577](https://www.acmicpc.net/problem/2577) | 숫자의 개수 | [py](py/2577.py) |
