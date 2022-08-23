@@ -26,6 +26,7 @@
 | [1212](https://www.acmicpc.net/problem/1212) | 8진수 2진수 | [py](py/1212.py) |
 | [1244](https://www.acmicpc.net/problem/1244) | 스위치 켜고 끄기 | [py](py/1244.py) |
 | [1259](https://www.acmicpc.net/problem/1259) | 팰린드롬수 | [py](py/1259.py) |
+| [1264](https://www.acmicpc.net/problem/1264) | 모음의 개수 | [py](py/1264.py) |
 | [1271](https://www.acmicpc.net/problem/1271) | 엄청난 부자2 | [py](py/1271.py) |
 | [1292](https://www.acmicpc.net/problem/1292) | 쉽게 푸는 문제 | [py](py/1292.py) |
 | [1302](https://www.acmicpc.net/problem/1302) | 베스트셀러 | [py](py/1302.py) |
