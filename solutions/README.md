@@ -64,6 +64,7 @@
 | [2557](https://www.acmicpc.net/problem/2557) | Hello World | [py](py/2557.py) [java](java/src/n2557/Main.java) |
 | [2609](https://www.acmicpc.net/problem/2609) | 최대공약수와 최소공배수 | [py](py/2609.py) |
 | [2675](https://www.acmicpc.net/problem/2675) | 문자열 반복 | [py](py/2675.py) |
+| [2738](https://www.acmicpc.net/problem/2738) | 행렬 덧셈 | [py](py/2738.py) |
 | [2739](https://www.acmicpc.net/problem/2739) | 구구단 | [py](py/2739.py) [rb](rb/2739.rb) |
 | [2741](https://www.acmicpc.net/problem/2741) | N 찍기 | [py](py/2741.py) [rb](rb/2741.rb) |
 | [2742](https://www.acmicpc.net/problem/2742) | 기찍 N | [py](py/2742.py) |
