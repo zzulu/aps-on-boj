@@ -95,6 +95,7 @@
 | [5337](https://www.acmicpc.net/problem/5337) | 웰컴 | [py](py/5337.py) |
 | [5338](https://www.acmicpc.net/problem/5338) | 마이크로소프트 로고 | [py](py/5338.py) |
 | [5339](https://www.acmicpc.net/problem/5339) | 콜센터 | [py](py/5339.py) |
+| [5430](https://www.acmicpc.net/problem/5430) | AC | [py](py/5430.py) |
 | [5522](https://www.acmicpc.net/problem/5522) | 카드 게임 | [py](py/5522.py) |
 | [5554](https://www.acmicpc.net/problem/5554) | 심부름 가는 길 | [py](py/5554.py) |
 | [5597](https://www.acmicpc.net/problem/5597) | 과제 안 내신 분..? | [py](py/5597.py) |
