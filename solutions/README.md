@@ -10,6 +10,7 @@
 | [1009](https://www.acmicpc.net/problem/1009) | 분산처리 | [py](py/1009.py) |
 | [1010](https://www.acmicpc.net/problem/1010) | 다리 놓기 | [py](py/1010.py) |
 | [1011](https://www.acmicpc.net/problem/1011) | Fly me to the Alpha Centauri | [py](py/1011.py) |
+| [1012](https://www.acmicpc.net/problem/1012) | 유기농 배추 | [py](py/1012.py) |
 | [1013](https://www.acmicpc.net/problem/1013) | Contact | [py](py/1013.py) |
 | [1016](https://www.acmicpc.net/problem/1016) | 제곱 ㄴㄴ수 | [py](py/1016.py) |
 | [1018](https://www.acmicpc.net/problem/1018) | 체스판 다시 칠하기 | [py](py/1018.py) |
