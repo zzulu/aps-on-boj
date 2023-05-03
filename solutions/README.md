@@ -92,6 +92,7 @@
 | [3003](https://www.acmicpc.net/problem/3003) | 킹, 퀸, 룩, 비숍, 나이트, 폰 | [py](py/3003.py) |
 | [3046](https://www.acmicpc.net/problem/3046) | R2 | [py](py/3046.py) |
 | [3052](https://www.acmicpc.net/problem/3052) | 나머지 | [py](py/3052.py) |
+| [4101](https://www.acmicpc.net/problem/4101) | 크냐? | [py](py/4101.py) |
 | [4153](https://www.acmicpc.net/problem/4153) | 직각삼각형 | [py](py/4153.py) |
 | [4344](https://www.acmicpc.net/problem/4344) | 평균은 넘겠지 | [py](py/4344.py) |
 | [4673](https://www.acmicpc.net/problem/4673) | 셀프 넘버 | [py](py/4673.py) [rb](rb/4673.rb) |
