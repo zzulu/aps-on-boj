@@ -14,6 +14,7 @@
 | [1013](https://www.acmicpc.net/problem/1013) | Contact | [py](py/1013.py) |
 | [1016](https://www.acmicpc.net/problem/1016) | 제곱 ㄴㄴ수 | [py](py/1016.py) |
 | [1018](https://www.acmicpc.net/problem/1018) | 체스판 다시 칠하기 | [py](py/1018.py) |
+| [1027](https://www.acmicpc.net/problem/1027) | 고층 건물 | [py](py/1027.py) |
 | [1032](https://www.acmicpc.net/problem/1032) | 명령 프롬프트 | [py](py/1032.py) |
 | [1037](https://www.acmicpc.net/problem/1037) | 약수 | [py](py/1037.py) |
 | [1038](https://www.acmicpc.net/problem/1038) | 감소하는 수 | [py](py/1038.py) |
