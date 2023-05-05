@@ -111,6 +111,7 @@
 | [6749](https://www.acmicpc.net/problem/6749) | Next in line | [py](py/6749.py) |
 | [7287](https://www.acmicpc.net/problem/7287) | 등록 | [py](py/7287.py) [rb](rb/7287.rb) |
 | [7568](https://www.acmicpc.net/problem/7568) | 덩치 | [py](py/7568.py) |
+| [7569](https://www.acmicpc.net/problem/7569) | 토마토 | [py](py/7569.py) |
 | [8370](https://www.acmicpc.net/problem/8370) | Plane | [py](py/8370.py) [rb](rb/8370.rb) |
 | [8393](https://www.acmicpc.net/problem/8393) | 합 | [py](py/8393.py) [rb](rb/8393.rb) |
 | [8437](https://www.acmicpc.net/problem/8437) | Julka | [py](py/8437.py) |
