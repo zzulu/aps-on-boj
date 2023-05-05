@@ -32,6 +32,7 @@
 | [1238](https://www.acmicpc.net/problem/1238) | 파티 | [py](py/1238.py) |
 | [1244](https://www.acmicpc.net/problem/1244) | 스위치 켜고 끄기 | [py](py/1244.py) |
 | [1259](https://www.acmicpc.net/problem/1259) | 팰린드롬수 | [py](py/1259.py) |
+| [1260](https://www.acmicpc.net/problem/1260) | DFS와 BFS | [py](py/1260.py) |
 | [1264](https://www.acmicpc.net/problem/1264) | 모음의 개수 | [py](py/1264.py) |
 | [1271](https://www.acmicpc.net/problem/1271) | 엄청난 부자2 | [py](py/1271.py) |
 | [1292](https://www.acmicpc.net/problem/1292) | 쉽게 푸는 문제 | [py](py/1292.py) |
