@@ -71,6 +71,7 @@
 | [2577](https://www.acmicpc.net/problem/2577) | 숫자의 개수 | [py](py/2577.py) |
 | [2588](https://www.acmicpc.net/problem/2588) | 최댓값 | [py](py/2588.py) |
 | [2557](https://www.acmicpc.net/problem/2557) | Hello World | [py](py/2557.py) [java](java/src/n2557/Main.java) |
+| [2606](https://www.acmicpc.net/problem/2606) | 바이러스 | [rb](rb/2606.rb) |
 | [2609](https://www.acmicpc.net/problem/2609) | 최대공약수와 최소공배수 | [py](py/2609.py) |
 | [2675](https://www.acmicpc.net/problem/2675) | 문자열 반복 | [py](py/2675.py) |
 | [2738](https://www.acmicpc.net/problem/2738) | 행렬 덧셈 | [py](py/2738.py) |
