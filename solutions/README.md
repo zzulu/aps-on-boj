@@ -122,6 +122,7 @@
 | [8958](https://www.acmicpc.net/problem/8958) | OX퀴즈 | [py](py/8958.py) |
 | [9012](https://www.acmicpc.net/problem/9012) | 괄호 | [py](py/9012.py) |
 | [9086](https://www.acmicpc.net/problem/9086) | 문자열 | [py](py/9086.py) |
+| [9095](https://www.acmicpc.net/problem/9095) | 1, 2, 3 더하기 | [py](py/9095.py) [rb](rb/9095.rb) |
 | [9498](https://www.acmicpc.net/problem/9498) | 시험 성적 | [py](py/9498.py) [rb](rb/9498.rb) |
 | [9653](https://www.acmicpc.net/problem/9653) | 스타워즈 로고 | [py](py/9653.py) |
 | [9654](https://www.acmicpc.net/problem/9654) | 나부 함대 데이터 | [py](py/9654.py) |
