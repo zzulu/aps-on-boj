@@ -127,6 +127,7 @@
 | [9498](https://www.acmicpc.net/problem/9498) | 시험 성적 | [py](py/9498.py) [rb](rb/9498.rb) |
 | [9653](https://www.acmicpc.net/problem/9653) | 스타워즈 로고 | [py](py/9653.py) |
 | [9654](https://www.acmicpc.net/problem/9654) | 나부 함대 데이터 | [py](py/9654.py) |
+| [10026](https://www.acmicpc.net/problem/10026) | 적록색약 | [rb](rb/10026.rb) |
 | [10170](https://www.acmicpc.net/problem/10170) | NFC West vs North | [py](py/10170.py) |
 | [10171](https://www.acmicpc.net/problem/10171) | Cats | [py](py/10171.py) |
 | [10172](https://www.acmicpc.net/problem/10172) | Dogs | [py](py/10172.py) [rb](rb/10172.rb) |
