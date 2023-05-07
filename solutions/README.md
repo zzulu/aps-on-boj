@@ -40,6 +40,7 @@
 | [1305](https://www.acmicpc.net/problem/1305) | 광고 | [py](py/1305.py) |
 | [1316](https://www.acmicpc.net/problem/1316) | 그룹 단어 체커 | [py](py/1316.py) |
 | [1377](https://www.acmicpc.net/problem/1377) | 버블 소트 | [py](py/1377.py) |
+| [1389](https://www.acmicpc.net/problem/1389) | 케빈 베이컨의 6단계 법칙 | [rb](rb/1389.rb) |
 | [1436](https://www.acmicpc.net/problem/1436) | 영화감독 숌 | [py](py/1436.py) |
 | [1463](https://www.acmicpc.net/problem/1463) | 1로 만들기 | [py](py/1463.py) |
 | [1485](https://www.acmicpc.net/problem/1485) | 정사각형 | [py](py/1485.py) |
