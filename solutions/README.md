@@ -164,6 +164,7 @@
 | [11719](https://www.acmicpc.net/problem/11719) | 그대로 출력하기 2 | [rb](rb/11719.rb) |
 | [11720](https://www.acmicpc.net/problem/11720) | 숫자의 합 | [py](py/11720.py) [rb](rb/11720.rb) |
 | [11721](https://www.acmicpc.net/problem/11721) | 열 개씩 끊어 출력하기 | [rb](rb/11721.rb) |
+| [11724](https://www.acmicpc.net/problem/11724) | 연결 요소의 개수 | [py](py/11724.py) [rb](rb/11724.rb) |
 | [11866](https://www.acmicpc.net/problem/11866) | 요세푸스 문제 0 | [py](py/11866.py) |
 | [11942](https://www.acmicpc.net/problem/11942) | 고려대학교 | [py](py/11942.py) |
 | [13277](https://www.acmicpc.net/problem/13277) | 큰 수 곱셈 | [py](py/13277.py) |
