@@ -39,6 +39,7 @@
 | [1302](https://www.acmicpc.net/problem/1302) | 베스트셀러 | [py](py/1302.py) |
 | [1305](https://www.acmicpc.net/problem/1305) | 광고 | [py](py/1305.py) |
 | [1316](https://www.acmicpc.net/problem/1316) | 그룹 단어 체커 | [py](py/1316.py) |
+| [1330](https://www.acmicpc.net/problem/1330) | 두 수 비교하기 | [py](py/1330.py) |
 | [1377](https://www.acmicpc.net/problem/1377) | 버블 소트 | [py](py/1377.py) |
 | [1389](https://www.acmicpc.net/problem/1389) | 케빈 베이컨의 6단계 법칙 | [rb](rb/1389.rb) |
 | [1436](https://www.acmicpc.net/problem/1436) | 영화감독 숌 | [py](py/1436.py) |
@@ -51,7 +52,7 @@
 | [1676](https://www.acmicpc.net/problem/1676) | 팩토리얼 0의 개수 | [py](py/1676.py) |
 | [1701](https://www.acmicpc.net/problem/1701) | Cubeditor | [py](py/1701.py) |
 | [1712](https://www.acmicpc.net/problem/1712) | 손익분기점 | [py](py/1712.py) |
-| [1330](https://www.acmicpc.net/problem/1330) | 두 수 비교하기 | [py](py/1330.py) |
+| [1764](https://www.acmicpc.net/problem/1764) | 듣보잡 | [py](py/1764.py) |
 | [1920](https://www.acmicpc.net/problem/1920) | 수 찾기 | [py](py/1920.py) |
 | [1924](https://www.acmicpc.net/problem/1924) | 2007년 | [py](py/1924.py) [rb](rb/1924.rb) |
 | [1978](https://www.acmicpc.net/problem/1978) | 소수 찾기 | [py](py/1978.py) |
