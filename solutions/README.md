@@ -47,6 +47,7 @@
 | [1485](https://www.acmicpc.net/problem/1485) | 정사각형 | [py](py/1485.py) |
 | [1546](https://www.acmicpc.net/problem/1546) | 평균 | [py](py/1546.py) |
 | [1550](https://www.acmicpc.net/problem/1550) | 16진수 | [py](py/1550.py) |
+| [1620](https://www.acmicpc.net/problem/1620) | 나는야 포켓몬 마스터 이다솜 | [py](py/1620.py) |
 | [1629](https://www.acmicpc.net/problem/1629) | 곱셈 | [py](py/1629.py) |
 | [1662](https://www.acmicpc.net/problem/1662) | 압축 | [py](py/1662.py) |
 | [1676](https://www.acmicpc.net/problem/1676) | 팩토리얼 0의 개수 | [py](py/1676.py) |
