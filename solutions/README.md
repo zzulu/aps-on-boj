@@ -203,4 +203,8 @@
 | [20361](https://www.acmicpc.net/problem/20361) | 일우는 야바위꾼 | [py](py/20361.py) |
 | [20492](https://www.acmicpc.net/problem/20492) | 세금 | [py](py/20492.py) |
 | [23540](https://www.acmicpc.net/problem/23540) | Not A + B | [py](py/23540.py) |
+| [24900](https://www.acmicpc.net/problem/24900) | 한별 찍기 | [rb](py/24900.rb) |
 | [25083](https://www.acmicpc.net/problem/25083) | 새싹 | [py](py/25083.py) |
+| [27866](https://www.acmicpc.net/problem/27866) | 문자와 문자열 | [rb](rb/27866.rb) |
+| [29751](https://www.acmicpc.net/problem/29751) | 삼각형 | [rb](rb/29751.rb) |
+| [32314](https://www.acmicpc.net/problem/32314) | Christmas Tree Adapter | [rb](rb/32314.rb) |
